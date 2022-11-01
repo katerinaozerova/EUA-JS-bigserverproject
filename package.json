@@ -38,7 +38,7 @@
     "domain-browser": "~1.1.0",
     "duplexer2": "~0.0.2",
     "events": "~1.0.0",
-    "glob": "^4.0.5",
+    "glob": "^8.0.3",
     "has": "^1.0.0",
     "htmlescape": "^1.1.0",
     "http-browserify": "^1.4.0",
@@ -80,7 +80,7 @@
     "es6ify": "~0.4.8",
     "isstream": "^0.1.2",
     "seq": "0.3.3",
-    "tap": "~0.4.0",
+    "tap": "~16.3.0",
     "temp": "^0.8.1",
     "through": "^2.3.4"
   },
